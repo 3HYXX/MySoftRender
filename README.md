@@ -6,11 +6,11 @@
 
 加载纹理：
 
-![QQ截图20230819031530](images\QQ截图20230819031530.png)
+![QQ截图20230819031530](images/QQ截图20230819031530.png)
 
 摄像机：
 
-![Camera](images\Camera.gif)
+![Camera](images/Camera.gif)
 
 参考资料：
 
